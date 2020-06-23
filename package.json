@@ -1,0 +1,21 @@
+{
+  "name": "unixseconds",
+  "version": "0.1.0",
+  "description": "No nonsense / No Bullshit micro library to get CURRENT unix time in SECONDS.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enkel-Digital/unixseconds.git"
+  },
+  "keywords": [
+    "unix",
+    "time",
+    "seconds",
+    "micro"
+  ],
+  "author": "JJ",
+  "license": "MIT"
+}
