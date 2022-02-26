@@ -1,9 +1,11 @@
 {
   "name": "unixseconds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "No nonsense / No Bullshit micro library to get CURRENT unix time in SECONDS.",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
+    "index.d.ts",
     "index.js"
   ],
   "repository": {
